@@ -81,7 +81,7 @@ This project is a **Streamlit-based application** that integrates **AI agents** 
 ## Screenshots
 
 ###  Home Page
-![Home Page]([assets/home_page.png](https://github.com/afrojmirza/Stocks-Analysis-AI-Agent/blob/e0711f4f9747f584ea863da4c67903d885d9c08e/nvidia%20stock.png))
+![Home Page](https://github.com/afrojmirza/Stocks-Analysis-AI-Agent/blob/e0711f4f9747f584ea863da4c67903d885d9c08e/nvidia%20stock.png))
 
 
 
