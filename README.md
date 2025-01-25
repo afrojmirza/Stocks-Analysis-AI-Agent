@@ -31,7 +31,7 @@ This project is a **Streamlit-based application** that integrates **AI agents** 
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/afrojmirza/Stocks-Analysis-AI-Agent.git)
+   git clone https://github.com/afrojmirza/Stocks-Analysis-AI-Agent.git
    cd Stocks Analysis AI Agent
    ```
 
